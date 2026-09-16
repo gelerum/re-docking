@@ -30,3 +30,6 @@ uv run run_vina.py
 ```bash
 uv run calc_rmsd.py
 ```
+
+
+Результаты в docking/results.csv
