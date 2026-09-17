@@ -1,3 +1,6 @@
+# 0. Notes
+
+[Notes.pdf](https://github.com/user-attachments/files/32350071/looking.li_202609180154_34517.pdf)
 
 # 1. Download HiqBind
 
