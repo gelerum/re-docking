@@ -13,3 +13,8 @@ wheels/
 docking/*
 !docking/results.csv
 
+
+# ML docking
+inputs/
+predictions/
+poses/
